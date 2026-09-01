@@ -5,8 +5,8 @@ A custom Home Assistant Lovelace card that displays personal location status, an
 ![Person Status Card](screenshots/person-status-card.png)
 
 [![HACS Default](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/hacs/default)
-[![GitHub Release](https://img.shields.io/github/v/release/mra282/person-status-card?style=for-the-badge)](https://github.com/mra282/person-status-card/releases)
-[![License](https://img.shields.io/github/license/mra282/person-status-card?style=for-the-badge)](LICENSE)
+[![GitHub Release](https://img.shields.io/github/v/release/mra282/ha-person-status-card?style=for-the-badge)](https://github.com/mra282/ha-person-status-card/releases)
+[![License](https://img.shields.io/github/license/mra282/ha-person-status-card?style=for-the-badge)](LICENSE)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/mra282)
 
 ---
